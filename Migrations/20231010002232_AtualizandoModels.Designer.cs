@@ -10,7 +10,7 @@ using MinhaWebAPI.data;
 namespace FolhaPagamento.Migrations
 {
     [DbContext(typeof(FolhaContext))]
-    [Migration("20231009224831_AtualizandoModels")]
+    [Migration("20231010002232_AtualizandoModels")]
     partial class AtualizandoModels
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
